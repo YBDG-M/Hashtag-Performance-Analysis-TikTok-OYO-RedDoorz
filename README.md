@@ -9,11 +9,11 @@ Nah, itulah kekuatan hashtag. Bukan cuma sekadar tanda pagar, tapi bisa jadi *�
 ## Studi Kasus: OYO dan RedDoorz  
 Dalam analisis saya terhadap **OYO** dan **RedDoorz** (Mei–September 2025), performa hashtag diukur dari:  
 
-- 📊 **Views**  
-- ❤️ **Likes**  
-- 🔄 **Shares**  
-- 💾 **Saves**  
-- 💬 **Comments**  
+- **Views**  
+- **Likes**  
+- **Shares**  
+- **Saves**  
+- **Comments**  
 
 Dengan pendekatan **SEO**: `#HotelReddoorz` & `#HotelOyo`, analisis dilakukan menggunakan **Google BigQuery** serta **visualisasi Python**.  
 
@@ -24,7 +24,7 @@ Dengan pendekatan **SEO**: `#HotelReddoorz` & `#HotelOyo`, analisis dilakukan me
 
 ---
 
-## Referensi
+## footnote
 Fahimah, M., & Ainiyah, I. R. (2022). *Minat beli produk fashion: Penggunaan hashtag dan review produk pada aplikasi TikTok.*  
 Ecoment Global: Jurnal Ilmu Ekonomi dan Manajemen, 8(2), 131–138.  
 [https://doi.org/10.36982/jeg.v8i2.2780](https://doi.org/10.36982/jeg.v8i2.2780)  
