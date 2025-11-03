@@ -20,7 +20,11 @@ Dengan pendekatan **SEO**: `#HotelReddoorz` & `#HotelOyo`, analisis dilakukan me
 ---
 
 ## Hasil Analisis
-👉 Hasil lengkap dapat dilihat pada folder diatas.  
+Hasil lengkap dapat dilihat pada folder diatas.  
+
+---
+## Link Looker Studio
+https://lookerstudio.google.com/reporting/60e7bd34-459e-4126-b87a-41fbb4777590
 
 ---
 
